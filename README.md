@@ -5,7 +5,6 @@
 
 Skills: REACT / JS / HTML / CSS / JAVA
 
-- 🔭 I’m currently working on this page. 
 
 
 
