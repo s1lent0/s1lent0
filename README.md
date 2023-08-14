@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is ʂ1lent
+![](https://media.discordapp.net/attachments/1018618008391925884/1140737053412298843/zonae3.gif)
 
-I'm ʂ1lent Web Developer + Java Programer
+💬 Discord Name - s1lent6333
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1lent0)](https://github.com/anuraghazra/github-readme-stats)
+
+Skills: REACT / JS / HTML / CSS / JAVA
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
